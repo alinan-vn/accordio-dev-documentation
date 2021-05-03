@@ -3,7 +3,7 @@
 ### Useful links
 - Frontend Repo
 - Backend Repo
-- Planner Repo: 
+- Planner Repo: https://github.com/alinan-vn/UXRP-Planner
 
 ## Basic File Structure
 
